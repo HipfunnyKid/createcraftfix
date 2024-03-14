@@ -1,1 +1,1 @@
-This datapack is open source. Please do not rerelease code without my explicit permission.
+This datapack is open source. Please do not re-release code without my explicit permission.
