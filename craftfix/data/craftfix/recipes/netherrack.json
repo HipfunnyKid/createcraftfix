@@ -1,0 +1,15 @@
+{
+    "type": "create:haunting",
+    "ingredients": [
+    	{
+    		"item": "minecraft:cobblestone"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "minecraft:netherrack",
+			"count": 1,
+			"chance": 1
+		}
+	]
+}
